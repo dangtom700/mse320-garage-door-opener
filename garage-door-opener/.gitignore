@@ -1,0 +1,17 @@
+# --- SolidWorks Simulation solver output (regenerable) --------------------
+*.cwr
+
+# --- SolidWorks / Office local state --------------------------------------
+~$*
+*.sldlfp.bak
+*.swbak
+*.log
+Thumbs.db
+desktop.ini
+
+# --- Third-party personal data -------------------------------------------
+# The report files carry the names and SFU student numbers of five group
+# members (four are not me). They are EXCLUDED from this published repo.
+# Only remove the line below after redacting the student numbers from both
+# files — and never commit the un-redacted versions.
+report/

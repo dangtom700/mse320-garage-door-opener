@@ -1,0 +1,16 @@
+[StartTime]
+something_something-motion bonded.MFC=1s
+[SolverState]
+something_something-motion bonded.MFC=2
+[MainFrame]
+something_something-motion bonded.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+something_something-motion bonded.MFC=No
+[SolverType]
+something_something-motion bonded.MFC=Linear Analysis
+[StudyType]
+something_something-motion bonded.MFC=0
+[StudyName]
+something_something-motion bonded.MFC=motion bonded
+[Solver]
+something_something-motion bonded.MFC=Sparse
