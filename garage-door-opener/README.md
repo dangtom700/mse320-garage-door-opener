@@ -21,7 +21,7 @@ The overall mechanism concept was the team's; I am not claiming the full assembl
 ## Layout
 | Path | What it is |
 |---|---|
-| `report/` | Final report (PDF) + progress report (DOCX) — design rationale, alternatives, calculations, BOM |
+| `report/` | Final + progress reports — **not published** (carry other members' student numbers); available on request |
 | `gearbox_3stage_spurGear/` | The delivered drive — gears, shafts 1-4, housing, drum, belt pulley, end plates, plus McMaster `.STEP` parts |
 | `project/` | Track/slider, operator, brackets; its `drawings/`, plus superseded `version1/` and `version2/` iterations |
 | `drawings-pdf/` | **Exported PDF drawings — the shareable proof of work** (export from SolidWorks into here) |
@@ -33,14 +33,11 @@ as proof, export each drawing to PDF (File -> Save As -> PDF, or Task Scheduler 
 -> PDF) into `drawings-pdf/` and optionally merge into one package. `.STEP` files open in most
 CAD viewers.
 
-## Privacy — redact before going public
-> This repository is private and must stay that way until redacted.
-
-The two report files carry the **names and SFU student numbers of five members**, four of whom
-are not me. Before making this repo public, or sharing its link beyond someone who needs it,
-**redact the student numbers from both documents**, or gitignore the two report files. Those
-identifiers are not mine to publish. For applications, link the repo and grant access on request,
-or share a redacted extract.
+## Reports — available on request
+The design reports (rationale, alternatives considered, calculations, BOM) carry the names and
+**SFU student numbers of five group members**, four of whom are not me, so they are **excluded
+from this public repository** (gitignored) rather than published. They are the strongest written
+evidence of the work and are available on request, or as a redacted extract.
 
 ## FEA is a separate item
 This term project's bracket and spring sizing was done by analytical hand-calculation (see the
